@@ -1,0 +1,11 @@
+www.youtube.com/watch?v=I1KAPOFXK1Y
+
+In this homework we tried a fun experiment, creating an EMF reader.
+
+I used a 7 segment display to display the value we detect
+a shift register to control it all
+a button to turn it on off
+a speaker that beeps slower/faster depending on the reading
+a servomotor that serves to give us a visual representation of the levels we are reading.
+
+This is a simple device capable of detection electromagnetic fields using a plain sensor, in this case a piece of bare wire
