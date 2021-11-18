@@ -1,0 +1,14 @@
+www.youtube.com/watch?v=64iBGOqO3ic
+
+In this homework we used 5 leds, a speaker and a button to simulate a traffic light.
+
+We have 2 leds, green and red for the pedestrians and 3 for the cars, green red and yellow.
+
+We use different states to go trough a complete cycle.
+
+First state is the green light on for the cars and red for pedestrians. Nothing happens unless we press the button.
+Once we press the button, there is a waiting time (i think i forgot to add this one in the code, nothing too complicated it's just a copy paste of a different state)
+After the wait time, the yellow color turns on for the cars.
+When that is over, we get red for cars and green for pedestrians. We also have a speaker sending off a beep noise to indicate how much time it's left.
+Last state is when the green light for pedestrians starts blinking, the speaker sends faster beeps and when it's over we go back to the default state, red for pedestrians and green for cars.
+
