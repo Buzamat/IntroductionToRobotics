@@ -1,0 +1,7 @@
+www.youtube.com/watch?v=f0wWnjYwOeE
+
+In this homework we use 3 potentiometers to control an RGB 3 color LED.
+
+We don't do it directly on the board, we are processing the reading value from the potentiometers trough the analog input pins.
+
+This way we can turn on/off any color inside the LED or combine them to create other colors.
